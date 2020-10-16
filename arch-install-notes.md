@@ -43,7 +43,8 @@ $ mount /dev/nvme0n1p1 /mnt/boot    # Mount boot/EFI
 ## Install base system
 ```bash
 # install base system
-$ pacstrap /mnt base base-devel linux linux-firmware intel-ucode nano vim sudo emacs  netctl iwd dialog tldr man-db man-pages dhcpcd dhclient grub
+$ pacstrap /mnt base base-devel linux linux-firmware intel-ucode nano vim sudo emacs \
+                netctl iwd dialog tldr man-db man-pages dhcpcd dhclient grub
 ```
 
 ## Generate partition table
