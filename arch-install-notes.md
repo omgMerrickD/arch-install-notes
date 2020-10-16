@@ -1,4 +1,7 @@
-# Installing Arch Linux on X1 Carbon (6th Gen)
+# Installing Arch Linux on a Lenovo X1 Carbon (6th Gen)
+
+## Download and create bootable ISO
+Arch website > Download ISO > Burn with ``Rufus`` or `dd`
 
 ## Setup wifi and test connectivity
 ```bash
