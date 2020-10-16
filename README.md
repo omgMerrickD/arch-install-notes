@@ -1,6 +1,6 @@
 # Arch Linux Install Notes
 
-These are my notes for installing a base Arch Linux system on a Lenovo X1 Carbon 6th generation laptop.
+[These are my notes](https://github.com/omgMerrickD/arch-install-notes/blob/master/arch-install-notes.md) for installing a base Arch Linux system on a Lenovo X1 Carbon 6th generation laptop.
 
 This is still a work in progress.
 
